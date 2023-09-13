@@ -1,1 +1,1 @@
-# Sophiya
+plot (1,1)
